@@ -1,0 +1,5 @@
+Credentials cache: API:4383
+        Principal: alushenk@UNIT.UA
+
+  Issued                Expires               Principal
+Aug 30 10:21:54 2016  Aug 30 20:21:48 2016  krbtgt/UNIT.UA@UNIT.UA

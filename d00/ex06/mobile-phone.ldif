@@ -1,0 +1,5 @@
+dn:uid=alushenk,ou=2016,ou=people,dc=unit,dc=ua
+changetype: modify
+replace: mobile
+mobile: +380962388771
+
